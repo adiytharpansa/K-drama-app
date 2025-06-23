@@ -1,0 +1,383 @@
+[
+  {
+    "judul": "True Beauty",
+    "cover": "https://drakorindo.fun/thumbs/true_beauty.jpg",
+    "genre": [
+      "Romantis",
+      "Sekolah",
+      "Komedi"
+    ],
+    "sinopsis": "Lim Ju-kyung adalah seorang siswi SMA yang kurang percaya diri dengan penampilannya. Dia ahli dalam seni makeup dan berubah menjadi dewi cantik berkat keahliannya tersebut. Dia bertemu dengan Lee Su-ho di sekolah barunya.",
+    "episode": [
+      {
+        "judul": "Episode 1",
+        "video_url": "https://cdn.example.com/true_beauty/ep1.mp4"
+      },
+      {
+        "judul": "Episode 2",
+        "video_url": "https://cdn.example.com/true_beauty/ep2.mp4"
+      },
+      {
+        "judul": "Episode 3",
+        "video_url": "https://cdn.example.com/true_beauty/ep3.mp4"
+      },
+      {
+        "judul": "Episode 4",
+        "video_url": "https://cdn.example.com/true_beauty/ep4.mp4"
+      },
+      {
+        "judul": "Episode 5",
+        "video_url": "https://cdn.example.com/true_beauty/ep5.mp4"
+      },
+      {
+        "judul": "Episode 6",
+        "video_url": "https://cdn.example.com/true_beauty/ep6.mp4"
+      },
+      {
+        "judul": "Episode 7",
+        "video_url": "https://cdn.example.com/true_beauty/ep7.mp4"
+      },
+      {
+        "judul": "Episode 8",
+        "video_url": "https://cdn.example.com/true_beauty/ep8.mp4"
+      },
+      {
+        "judul": "Episode 9",
+        "video_url": "https://cdn.example.com/true_beauty/ep9.mp4"
+      },
+      {
+        "judul": "Episode 10",
+        "video_url": "https://cdn.example.com/true_beauty/ep10.mp4"
+      },
+      {
+        "judul": "Episode 11",
+        "video_url": "https://cdn.example.com/true_beauty/ep11.mp4"
+      },
+      {
+        "judul": "Episode 12",
+        "video_url": "https://cdn.example.com/true_beauty/ep12.mp4"
+      },
+      {
+        "judul": "Episode 13",
+        "video_url": "https://cdn.example.com/true_beauty/ep13.mp4"
+      },
+      {
+        "judul": "Episode 14",
+        "video_url": "https://cdn.example.com/true_beauty/ep14.mp4"
+      },
+      {
+        "judul": "Episode 15",
+        "video_url": "https://cdn.example.com/true_beauty/ep15.mp4"
+      },
+      {
+        "judul": "Episode 16",
+        "video_url": "https://cdn.example.com/true_beauty/ep16.mp4"
+      }
+    ]
+  },
+  {
+    "judul": "Goblin",
+    "cover": "https://drakorindo.fun/thumbs/goblin.jpg",
+    "genre": [
+      "Fantasi",
+      "Romantis",
+      "Supernatural"
+    ],
+    "sinopsis": "Kim Shin adalah goblin dan pelindung jiwa-jiwa. Dia hidup bersama grim reaper yang mengalami amnesia yang bertugas mengantarkan jiwa-jiwa yang telah meninggal. Bersama mereka melihat orang mati pergi ke alam baka.",
+    "episode": [
+      {
+        "judul": "Episode 1",
+        "video_url": "https://cdn.example.com/goblin/ep1.mp4"
+      },
+      {
+        "judul": "Episode 2",
+        "video_url": "https://cdn.example.com/goblin/ep2.mp4"
+      },
+      {
+        "judul": "Episode 3",
+        "video_url": "https://cdn.example.com/goblin/ep3.mp4"
+      },
+      {
+        "judul": "Episode 4",
+        "video_url": "https://cdn.example.com/goblin/ep4.mp4"
+      },
+      {
+        "judul": "Episode 5",
+        "video_url": "https://cdn.example.com/goblin/ep5.mp4"
+      },
+      {
+        "judul": "Episode 6",
+        "video_url": "https://cdn.example.com/goblin/ep6.mp4"
+      },
+      {
+        "judul": "Episode 7",
+        "video_url": "https://cdn.example.com/goblin/ep7.mp4"
+      },
+      {
+        "judul": "Episode 8",
+        "video_url": "https://cdn.example.com/goblin/ep8.mp4"
+      },
+      {
+        "judul": "Episode 9",
+        "video_url": "https://cdn.example.com/goblin/ep9.mp4"
+      },
+      {
+        "judul": "Episode 10",
+        "video_url": "https://cdn.example.com/goblin/ep10.mp4"
+      },
+      {
+        "judul": "Episode 11",
+        "video_url": "https://cdn.example.com/goblin/ep11.mp4"
+      },
+      {
+        "judul": "Episode 12",
+        "video_url": "https://cdn.example.com/goblin/ep12.mp4"
+      },
+      {
+        "judul": "Episode 13",
+        "video_url": "https://cdn.example.com/goblin/ep13.mp4"
+      },
+      {
+        "judul": "Episode 14",
+        "video_url": "https://cdn.example.com/goblin/ep14.mp4"
+      },
+      {
+        "judul": "Episode 15",
+        "video_url": "https://cdn.example.com/goblin/ep15.mp4"
+      },
+      {
+        "judul": "Episode 16",
+        "video_url": "https://cdn.example.com/goblin/ep16.mp4"
+      }
+    ]
+  },
+  {
+    "judul": "Crash Landing on You",
+    "cover": "https://drakorindo.fun/thumbs/crash_landing.jpg",
+    "genre": [
+      "Romantis",
+      "Drama",
+      "Komedi"
+    ],
+    "sinopsis": "Yoon Se-ri adalah pewaris chaebol Korea Selatan yang secara tidak sengaja terdampar di Korea Utara setelah kecelakaan paralayang. Di sana dia bertemu Ri Jung-hyuk, seorang perwira Korea Utara yang menyembunyikan dan melindunginya.",
+    "episode": [
+      {
+        "judul": "Episode 1",
+        "video_url": "https://cdn.example.com/crash_landing/ep1.mp4"
+      },
+      {
+        "judul": "Episode 2",
+        "video_url": "https://cdn.example.com/crash_landing/ep2.mp4"
+      },
+      {
+        "judul": "Episode 3",
+        "video_url": "https://cdn.example.com/crash_landing/ep3.mp4"
+      },
+      {
+        "judul": "Episode 4",
+        "video_url": "https://cdn.example.com/crash_landing/ep4.mp4"
+      },
+      {
+        "judul": "Episode 5",
+        "video_url": "https://cdn.example.com/crash_landing/ep5.mp4"
+      },
+      {
+        "judul": "Episode 6",
+        "video_url": "https://cdn.example.com/crash_landing/ep6.mp4"
+      },
+      {
+        "judul": "Episode 7",
+        "video_url": "https://cdn.example.com/crash_landing/ep7.mp4"
+      },
+      {
+        "judul": "Episode 8",
+        "video_url": "https://cdn.example.com/crash_landing/ep8.mp4"
+      },
+      {
+        "judul": "Episode 9",
+        "video_url": "https://cdn.example.com/crash_landing/ep9.mp4"
+      },
+      {
+        "judul": "Episode 10",
+        "video_url": "https://cdn.example.com/crash_landing/ep10.mp4"
+      },
+      {
+        "judul": "Episode 11",
+        "video_url": "https://cdn.example.com/crash_landing/ep11.mp4"
+      },
+      {
+        "judul": "Episode 12",
+        "video_url": "https://cdn.example.com/crash_landing/ep12.mp4"
+      },
+      {
+        "judul": "Episode 13",
+        "video_url": "https://cdn.example.com/crash_landing/ep13.mp4"
+      },
+      {
+        "judul": "Episode 14",
+        "video_url": "https://cdn.example.com/crash_landing/ep14.mp4"
+      },
+      {
+        "judul": "Episode 15",
+        "video_url": "https://cdn.example.com/crash_landing/ep15.mp4"
+      },
+      {
+        "judul": "Episode 16",
+        "video_url": "https://cdn.example.com/crash_landing/ep16.mp4"
+      }
+    ]
+  },
+  {
+    "judul": "Itaewon Class",
+    "cover": "https://drakorindo.fun/thumbs/itaewon_class.jpg",
+    "genre": [
+      "Drama",
+      "Bisnis",
+      "Balas Dendam"
+    ],
+    "sinopsis": "Park Sae-ro-yi adalah seorang pria yang kehilangan ayahnya karena kecelakaan yang disebabkan oleh putra dari CEO perusahaan besar. Dia bersumpah untuk membalaskan dendam dan membuka restoran di Itaewon untuk menantang perusahaan tersebut.",
+    "episode": [
+      {
+        "judul": "Episode 1",
+        "video_url": "https://cdn.example.com/itaewon_class/ep1.mp4"
+      },
+      {
+        "judul": "Episode 2",
+        "video_url": "https://cdn.example.com/itaewon_class/ep2.mp4"
+      },
+      {
+        "judul": "Episode 3",
+        "video_url": "https://cdn.example.com/itaewon_class/ep3.mp4"
+      },
+      {
+        "judul": "Episode 4",
+        "video_url": "https://cdn.example.com/itaewon_class/ep4.mp4"
+      },
+      {
+        "judul": "Episode 5",
+        "video_url": "https://cdn.example.com/itaewon_class/ep5.mp4"
+      },
+      {
+        "judul": "Episode 6",
+        "video_url": "https://cdn.example.com/itaewon_class/ep6.mp4"
+      },
+      {
+        "judul": "Episode 7",
+        "video_url": "https://cdn.example.com/itaewon_class/ep7.mp4"
+      },
+      {
+        "judul": "Episode 8",
+        "video_url": "https://cdn.example.com/itaewon_class/ep8.mp4"
+      },
+      {
+        "judul": "Episode 9",
+        "video_url": "https://cdn.example.com/itaewon_class/ep9.mp4"
+      },
+      {
+        "judul": "Episode 10",
+        "video_url": "https://cdn.example.com/itaewon_class/ep10.mp4"
+      },
+      {
+        "judul": "Episode 11",
+        "video_url": "https://cdn.example.com/itaewon_class/ep11.mp4"
+      },
+      {
+        "judul": "Episode 12",
+        "video_url": "https://cdn.example.com/itaewon_class/ep12.mp4"
+      },
+      {
+        "judul": "Episode 13",
+        "video_url": "https://cdn.example.com/itaewon_class/ep13.mp4"
+      },
+      {
+        "judul": "Episode 14",
+        "video_url": "https://cdn.example.com/itaewon_class/ep14.mp4"
+      },
+      {
+        "judul": "Episode 15",
+        "video_url": "https://cdn.example.com/itaewon_class/ep15.mp4"
+      },
+      {
+        "judul": "Episode 16",
+        "video_url": "https://cdn.example.com/itaewon_class/ep16.mp4"
+      }
+    ]
+  },
+  {
+    "judul": "Hotel Del Luna",
+    "cover": "https://drakorindo.fun/thumbs/hotel_del_luna.jpg",
+    "genre": [
+      "Fantasi",
+      "Romantis",
+      "Supernatural",
+      "Horror"
+    ],
+    "sinopsis": "Hotel Del Luna adalah hotel mewah yang melayani roh-roh dan hantu. Hotel ini dikelola oleh Jang Man-wol, seorang wanita cantik dengan masa lalu kelam yang terikat untuk mengelola hotel ini. Suatu hari dia bertemu dengan Gu Chan-sung yang menjadi manajer hotel.",
+    "episode": [
+      {
+        "judul": "Episode 1",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep1.mp4"
+      },
+      {
+        "judul": "Episode 2",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep2.mp4"
+      },
+      {
+        "judul": "Episode 3",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep3.mp4"
+      },
+      {
+        "judul": "Episode 4",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep4.mp4"
+      },
+      {
+        "judul": "Episode 5",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep5.mp4"
+      },
+      {
+        "judul": "Episode 6",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep6.mp4"
+      },
+      {
+        "judul": "Episode 7",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep7.mp4"
+      },
+      {
+        "judul": "Episode 8",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep8.mp4"
+      },
+      {
+        "judul": "Episode 9",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep9.mp4"
+      },
+      {
+        "judul": "Episode 10",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep10.mp4"
+      },
+      {
+        "judul": "Episode 11",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep11.mp4"
+      },
+      {
+        "judul": "Episode 12",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep12.mp4"
+      },
+      {
+        "judul": "Episode 13",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep13.mp4"
+      },
+      {
+        "judul": "Episode 14",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep14.mp4"
+      },
+      {
+        "judul": "Episode 15",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep15.mp4"
+      },
+      {
+        "judul": "Episode 16",
+        "video_url": "https://cdn.example.com/hotel_del_luna/ep16.mp4"
+      }
+    ]
+  }
+]
