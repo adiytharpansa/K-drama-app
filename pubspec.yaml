@@ -1,0 +1,49 @@
+name: kdrama_app
+description: Aplikasi streaming drama Korea seperti Dramabox
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Video player
+  video_player: ^2.8.2
+  chewie: ^1.7.5
+  
+  # Storage
+  shared_preferences: ^2.2.2
+  
+  # HTTP requests
+  http: ^1.1.2
+  
+  # State management
+  provider: ^6.1.1
+  
+  # UI
+  cupertino_icons: ^1.0.6
+  
+  # Images
+  cached_network_image: ^3.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - drama.json
+
+  fonts:
+    - family: NotoSans
+      fonts:
+        - asset: fonts/NotoSans-Regular.ttf
+        - asset: fonts/NotoSans-Bold.ttf
+          weight: 700
